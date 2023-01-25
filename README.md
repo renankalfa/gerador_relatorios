@@ -22,6 +22,14 @@ Exemplo de arquivo gerado:
 
 ![documento gerado](https://user-images.githubusercontent.com/97196457/214554411-e267bf59-5bf9-4996-bcdc-bebbd1fafe90.png)
 
+#### Ferramentas utilizadas
+
+- Jupyter Notebook/PyCharm: locais para escrita e testes do script Python.
+- Python (versão 3.9.6): linguagem de programação usada para escrita dos scripts.
+- Tkinter (versão 8.5): biblioteca Python para criação da interface gráfica.
+- Python Docx (versão 0.8.11): biblioteca Python para criação do arquivo Word.
+- Pandas (versão 1.5.3): biblioteca Python para carregamento e manipulação de dados.
+
 #
 
 ## Gerador de Relatórios de Feminicídios
@@ -32,6 +40,13 @@ Exemplo de arquivo gerado:
 Exemplo de arquivo gerado:
 
 ![relatorio feminicidio](https://user-images.githubusercontent.com/97196457/214555699-b390133b-e43b-4d46-9592-2991729be9ac.png)
+
+#### Ferramentas utilizadas
+
+- Jupyter Notebook/PyCharm: locais para escrita e testes do script Python.
+- Python (versão 3.9.6): linguagem de programação usada para escrita dos scripts.
+- Python Docx (versão 0.8.11): biblioteca Python para criação do arquivo Word.
+- Pandas (versão 1.5.3): biblioteca Python para carregamento e manipulação de dados.
 
 #
 
