@@ -46,8 +46,9 @@ Exemplo de arquivo gerado:
 
 - Jupyter Notebook/PyCharm: locais para escrita e testes do script Python.
 - Python (versão 3.9.6): linguagem de programação usada para escrita dos scripts.
-- Python Docx (versão 0.8.11): biblioteca Python para criação do arquivo Word.
-- Pandas (versão 1.5.3): biblioteca Python para carregamento e manipulação de dados.
+- Bibliotecas Python
+    - Docx (versão 0.8.11): biblioteca Python para criação do arquivo Word.
+    - Pandas (versão 1.5.3): biblioteca Python para carregamento e manipulação de dados.
 
 #
 
