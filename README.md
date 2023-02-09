@@ -34,11 +34,11 @@ Exemplo de arquivo gerado:
 #
 
 ## Gerador de Relatórios de Feminicídios
-**Problema de negócio**: falta de um material físico com dados sobre a violência contra a mulher.
+**Problema de negócio**: falta de um material físico com dados sobre a violência contra a mulher para viagens e consulta em reuniões.
 
 **Solução criada**: geração de relatórios de feminicídios para todas as UFs por meio de um script Python.
 
-Exemplo de arquivo gerado:
+Os arquivos gerados podem ser encontrados [clicando aqui](https://drive.google.com/drive/folders/10Somv9JTl1QycLr0KsT_6X9L8DT40FDf?usp=sharing). A imagem abaixo retrata um exemplo de arquivo gerado:
 
 ![relatorio feminicidio](https://user-images.githubusercontent.com/97196457/214555699-b390133b-e43b-4d46-9592-2991729be9ac.png)
 
