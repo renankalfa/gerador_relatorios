@@ -307,15 +307,11 @@ class gerador_subsidio:
     def open_link(op):
         import webbrowser
         if op == 1:
-            link = 'https://sdhgovbr.sharepoint.com/:x:/r/sites/InstrumentosVigentesDEVSNPM/_layouts/15/Doc.aspx?' \
-                   'sourcedoc=%7B193E92AC-2590-43EC-B936-7B58EA009D08%7D&file=INSTRUMENTOS%20DEV.SNPM.xlsx&wdOrigin=' \
-                   'TEAMS-ELECTRON.teams.chiclet&action=default&mobileredirect=true&cid=47601cf0-6bdc-4bbb-92cc-' \
-                   '63abaf5d2ac3'
+            link = 'google.com.br'
         elif op == 2:
-            link = 'https://drive.google.com/file/d/1c-QKi-Q0rgNXTUpcCowBllF_X9dDMp4J/view?usp=sharing'
+            link = 'google.com.br'
         else:
-            link = 'https://sdhgovbr-my.sharepoint.com/:x:/g/personal/valeria_silva_mdh_gov_br/EbqFsK9SVlFHoCze2bzY2p' \
-                   'YBn6dC_cAlA62mfy2smra9sw?e=793buE&isSPOFile=1'
+            link = 'google.com.br'
         webbrowser.open(link)
         return None
 
